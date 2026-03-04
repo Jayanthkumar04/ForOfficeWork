@@ -1,0 +1,26 @@
+# Basic Python Example
+
+# A simple function
+def greet(name):
+    return fBHhello, {name}!"
+
+# Ask for user input
+user_name = input("Enter your name: ")
+
+# Call the function
+message = greet(user_name)
+
+# Print the greeting
+print(message)
+
+# Simple conditional
+age = int(input("Enter your age: "))
+if age >= 18:
+    print("You are an adult.")
+else:
+    print("You are a minor.")
+
+# Loop example
+print("Counting from 1 to 5:")
+for i in range(1, 6):
+    print(i)
