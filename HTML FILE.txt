@@ -1,0 +1,31 @@
+{
+  "title": "Sample Product List",
+  "lastUpdated": "2025-11-17",
+  "products": [
+    {
+      "id": 101,
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "inStock": true,
+      "tags": ["audio", "wireless", "electronics"]
+    },
+    {
+      "id": 102,
+      "name": "Smart Coffee Maker",
+      "price": 129.50,
+      "inStock": false,
+      "tags": ["kitchen", "smart", "appliance"]
+    },
+    {
+      "id": 103,
+      "name": "LED Desk Lamp",
+      "price": 24.95,
+      "inStock": true,
+      "tags": ["lighting", "office"]
+    }
+  ],
+  "metadata": {
+    "generatedBy": "ChatGPT",
+    "purpose": "HTML Conversion Example"
+  }
+}
