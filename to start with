@@ -1,0 +1,8 @@
+npm install
+
+npm install bootstrap
+
+npm install npm install @fortawesome/fontawesome-free
+
+npm install ngx-toastr@18
+npm install @angular/animations
